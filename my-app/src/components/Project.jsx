@@ -4,7 +4,7 @@ const projectData = [
     id: 1,
     title: "My Portfolio Website",
     description: "This is a personal portfolio project built with React and Tailwind CSS. It showcases my skills, experiences, and projects in a modern and responsive design.",
-    imageSrc: "slo.png",
+    imageSrc: "/slo.png",
     imageAlt: "Project Preview: My Portfolio Website",
     // You might want to add links here later:
     // liveLink: "https://yourportfolio.com",
@@ -14,14 +14,14 @@ const projectData = [
     id: 2,
     title: "E-commerce Redesign Concept",
     description: "A front-end redesign of a mock e-commerce store focusing on improved mobile user experience and faster load times. Built with Next.js and styled-components.",
-    imageSrc: "slo.png", // Replace with a different image source later
+    imageSrc: "/slo.png", // Replace with a different image source later
     imageAlt: "Project Preview: E-commerce Redesign",
   },
   {
     id: 3,
     title: "Task Management App",
     description: "A full-stack application for managing daily tasks and projects. Features user authentication, CRUD operations, and state management using Redux.",
-    imageSrc: "slo.png", // Replace with a different image source later
+    imageSrc: "/slo.png", // Replace with a different image source later
     imageAlt: "Project Preview: Task Management App",
   },
 ];
