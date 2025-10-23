@@ -24,7 +24,7 @@ export default function Sidebar({ active, scrollToSection }) {
         
         {/* Logo and Text (Horizontal on mobile, vertical on desktop) */}
         <div className="flex flex-row space-x-2 items-center lg:flex-col lg:items-start lg:space-x-0 lg:pt-1">
-          <img src="slo.png" alt="Logo" className="w-18 h-18 lg:mb-4 rounded-full" />
+          <img src="/slo.png" alt="Logo" className="w-18 h-18 lg:mb-4 rounded-full" />
           <div className="lg:w-full">
             <h1 className="font-sans font-bold text-1 md:text-2xl lg:text-3xl whitespace-nowrap truncate">Saw Eh Thalay Htoo</h1>
             <h2 className="font-mono font-bold text-sm lg:text-lg hidden lg:block mb-6 pt-3">IT Student</h2>
