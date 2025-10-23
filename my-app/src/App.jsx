@@ -7,7 +7,7 @@ import Experience from "./components/Experience.jsx";
 import Skills from "./components/Skills.jsx";
 import Project from './components/Project.jsx';
 import Contact from './components/Contact.jsx';
-// import PhotoGallery from './components/PhotoGallery.jsx';
+
 
 import { useScroll, scrollToSection } from './hooks/useScroll';
 
