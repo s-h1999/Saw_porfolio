@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import './App.css';
 
-import Sidebar from "./components/sidebar.jsx";
-import About from "./components/about.jsx";
-import Experience from "./components/experience.jsx";
-import Skills from "./components/Skills.jsx";
-import Project from './components/Project.jsx';
-import Contact from './components/contact.jsx';
+import Sidebar from "./Components/Sidebar.jsx";
+import About from "./Components/About.jsx";
+import Experience from "./Components/Experience.jsx";
+import Skills from "./Components/Skills.jsx";
+import Project from './Components/Project.jsx';
+import Contact from './Components/Contact.jsx';
 // import PhotoGallery from './components/PhotoGallery.jsx';
 
 import { useScroll, scrollToSection } from './hooks/useScroll';
